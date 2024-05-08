@@ -1,8 +1,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-Gilang Arya Libna
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+
+<p align="left">My name is Gilang Arya Libna and I'm a Full Stack Developer, from Indonesia</p>
 
 ###
 
@@ -10,7 +10,7 @@ Gilang Arya Libna
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">a 4th semester student at Politeknik Negeri Pontianak with main interest in technology, especially website and application development. Currently, I am looking for opportunities to develop my skills and gain practical experience in the real world. My desire is to become a professional who can contribute in facing challenges in this digital era.<br>✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
