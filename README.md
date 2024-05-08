@@ -1,5 +1,5 @@
 # 💫 About Me:
-mahasiswa semester 4 di Politeknik Negeri Pontianak dengan ketertarikan utama dalam teknologi, terutama pengembangan website dan aplikasi. Saat ini, saya sedang mencari peluang untuk mengembangkan keterampilan dan mendapatkan pengalaman praktis di dunia nyata. Keinginan saya adalah menjadi seorang profesional yang dapat memberikan kontribusi dalam menghadapi tantangan di era digital ini.
+a 4th semester student at Politeknik Negeri Pontianak with main interest in technology, especially website and application development. Currently, I am looking for opportunities to develop my skills and gain practical experience in the real world. My desire is to become a professional who can contribute in facing challenges in this digital era.
 
 
 ## 🌐 Socials:
