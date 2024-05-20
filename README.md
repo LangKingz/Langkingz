@@ -20,6 +20,6 @@ a 4th semester student at Politeknik Negeri Pontianak with main interest in tech
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id= LangKingz&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
